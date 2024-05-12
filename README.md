@@ -2,6 +2,7 @@
 This is my first GitHub repository
 <br>
 Author - Akash kuamr mahaliyan
+<br>
 num = int(input("Enter the number :- "))
 for i in range(num+1):
   if i%2==0:
